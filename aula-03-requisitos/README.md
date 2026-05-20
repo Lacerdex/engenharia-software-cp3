@@ -2,7 +2,7 @@
 
 #### Código
 
-Arquivo: [`aula-03-requisitos/gymtrack_validador.py`](aula-03-requisitos/gymtrack_validador.py)
+Arquivo: [`gymtrack_validador.py`](gymtrack_validador.py)
 
 O codigo implementado é sobre validar o registro de atividades fisicas executadas dentro de uma academia.
 
