@@ -4,7 +4,7 @@
 
 **Aluno:** Gabriel Lacerda Covello Arimatéa — RM 556391
 
-Este repositório reúne os exercícios das aulas do curso de Engenharia de Software. Cada pasta contém o código referente à aula, imagens de diagramação e imagens de execução quando disponíveis.
+Este repositório reúne os exercícios das aulas do curso de Engenharia de Software. Cada pasta contém o código referente à aula, README com detalhes, imagens de diagramação e imagens de execução quando disponíveis.
 
 ---
 
@@ -45,16 +45,12 @@ cd engenharia-software-cp3
 - Código: [`aula-02-conversor/conversor_temperatura.py`](aula-02-conversor/conversor_temperatura.py)
 - Saída: [`aula-02-conversor/aula02-output.png`](aula-02-conversor/aula02-output.png)
 
-Conversor de temperatura com validação de entrada e conversão entre Celsius, Fahrenheit e Kelvin, aplicando técnicas de elicitação de requisitos.
-
 ---
 
 ### Aula 03 – Requisitos Funcionais vs. Não-Funcionais
 
 - Código: [`aula-03-requisitos/gymtrack_validador.py`](aula-03-requisitos/gymtrack_validador.py)
 - Saída: [`aula-03-requisitos/aula03-output.png`](aula-03-requisitos/aula03-output.png)
-
-Validação de dados de treino em um sistema GymTrack, verificando nome, peso, repetições e tipo de exercício com mensagens de erro específicas para cada campo inválido.
 
 ---
 
