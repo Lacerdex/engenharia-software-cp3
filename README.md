@@ -40,13 +40,6 @@ cd engenharia-software-cp3
 
 ---
 
-### Aula 02 – Levantamento de Requisitos e Técnicas de Elicitação
-
-- Código: [`aula-02-conversor/conversor_temperatura.py`](aula-02-conversor/conversor_temperatura.py)
-- Saída: [`aula-02-conversor/aula02-output.png`](aula-02-conversor/aula02-output.png)
-
----
-
 ### Aula 03 – Requisitos Funcionais vs. Não-Funcionais
 
 - Código: [`aula-03-requisitos/gymtrack_validador.py`](aula-03-requisitos/gymtrack_validador.py)
@@ -104,7 +97,7 @@ cd engenharia-software-cp3
 
 | Recurso | Link |
 |---|---|
-| 🐙 GitHub | [Engenharia-de-Software](https://github.com/Lacerdex/engenharia-software-cp3) |
+| 🐙 GitHub | [engenharia-software-cp3](https://github.com/Lacerdex/engenharia-software-cp3) |
 | 📌 Checkpoint 3 | [Whimsical](https://whimsical.com/checkpoint-3-engenharia-de-software-Mhe3fp7DXwvVaNtN1FZiyi) |
 | Aula 02 | [Whimsical](https://whimsical.com/aula-es-02-levantamento-de-requisitos-tecnicas-de-elicitacao-8bk2penxoukq4Tq3Bx6yi2)| 
 | Aula 03 | [Whimsical](https://whimsical.com/aula-es-03-requisitos-funcionais-vs-nao-funcionais-VeRe2FAFiQkj7bRSeUU7km) |
